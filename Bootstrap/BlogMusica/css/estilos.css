@@ -1,6 +1,19 @@
-/* */
+/* 
 div {
   border: solid black 1px;
 }
- 
-
+*/ 
+.redes {
+  background-color:#D7D5D5;
+}
+.img-social {
+  margin: 5px;
+  width: 40px;
+  height: 40px;
+}
+/* 
+.logo-play {
+  margin: 5px;
+  width: 40px;
+  height: 40px;
+}
